@@ -150,6 +150,7 @@ generates Figure 1 from the paper
 (one library per plasmid),
 and a more complete set of read depth graphs
 (3 libraries × 4 plasmids)
+archived here in the graphs/ subdirectory.
 
 Job scripts were run on a cluster
 on which Lmod is used to manage software.
